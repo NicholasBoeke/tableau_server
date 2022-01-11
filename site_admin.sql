@@ -4,6 +4,7 @@ along with user_login (for security match)
 and the list of sites they should see (i.e. any sites where site_role=0) 
 
 all tables described in tableau's dictionary for the WORKGROUP repository
+https://help.tableau.com/current/server/en-us/data_dictionary.htm
 https://tableau.github.io/tableau-data-dictionary/2021.4/data_dictionary.htm
 */
 
